@@ -1,0 +1,14 @@
+{
+  "name": "passport-cas-iu",
+  "version": "0.0.1",
+  "description": "Passport strategy for authentication via Indiana University's CAS",
+  "author": {
+    "name": "Micah Fitzgerald",
+    "email": "mifitzge@indiana.edu"
+  },
+  "main": "./lib",
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
